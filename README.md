@@ -1,6 +1,6 @@
 # class_projects
 
-Please contact me for source code for any of the following projects:
+Please contact me (kristylee@berkeley.edu) for source code for any of the following projects:
 
 CS61A [Structure and Interpretation of Computer Programs]: Scheme Interpreter, Maps
 
