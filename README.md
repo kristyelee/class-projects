@@ -9,3 +9,5 @@ CS61B [Data Structures]:BearMaps, 2D World Generator, Min Heap Data Structure, K
 CS61C [Computer Architecture]: Artificial Neural Net, RISC-V CPU, Mandelbrot
 
 CS188 [Artificial Intelligence]
+
+Miscellaneous: B+ Tree
