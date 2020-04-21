@@ -8,6 +8,6 @@ CS61B [Data Structures]: BearMaps[Java], 2D World Generator[Java], Min Heap Data
 
 CS61C [Computer Architecture]: Artificial Neural Net [RISC-V], RISC-V CPU[Logism.jar], Mandelbrot[C]
 
-CS188 [Artificial Intelligence]: Multiagent Search, RL [Python]
+CS188 [Artificial Intelligence]: Multiagent Search, Reinforcement-Learning [Python] [Worked with skeleton code]
 
 Miscellaneous: B+ Tree [Java]
