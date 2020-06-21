@@ -1,4 +1,4 @@
-# class_projects
+# class-projects
 
 Please contact me (kristylee@berkeley.edu) for source code for any of the following projects:
 
