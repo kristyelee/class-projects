@@ -12,4 +12,6 @@ CS170 [Efficient Algorithms and Intractable Problems]: Solver for an NP Hard Pro
 
 CS188 [Artificial Intelligence]: Multiagent Search, Reinforcement-Learning [Python], Digit Classifier [Python, Neural Networks] [worked with skeleton code]
 
+CS161 [Computer Security]: Encrypted File Sharing System [Golang] [worked on coding data structures behind file sharing system and encryption].
+
 Miscellaneous: B+ Tree [Java]
